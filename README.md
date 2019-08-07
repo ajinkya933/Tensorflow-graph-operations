@@ -6,3 +6,4 @@ Run
 ```
 python find_output_name.py
 ```
+Download checkpoints from here: https://drive.google.com/file/d/13VxyxkIpoY1PJqtp--wN3YahzX5mUN3l/view?usp=sharing
